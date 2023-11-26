@@ -1,0 +1,7 @@
+<FGA015_40mm_Bofors_Mk3.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/gun/lods/FGA015_40mm_Bofors_Mk3_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/gun/FGA015_40mm_Bofors_Mk3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGA015_40mm_Bofors_Mk3.model>

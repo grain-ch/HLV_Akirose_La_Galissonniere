@@ -1,0 +1,9 @@
+<FGM039_152_55_Mle_1930_RF2_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/gun/lods/FGM039_152_55_Mle_1930_RF2_dead_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/gun/FGM039_152_55_Mle_1930_RF2_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGM039_152_55_Mle_1930_RF2_dead.model>

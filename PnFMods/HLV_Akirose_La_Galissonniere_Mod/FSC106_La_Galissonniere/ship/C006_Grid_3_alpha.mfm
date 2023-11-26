@@ -1,0 +1,7 @@
+<C006_Grid_3_alpha.mfm>
+	<fx>	shaders/std_effects/grid_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/ship/C006_Grid_3_alpha_a.dds	</Texture>
+	</property>
+</C006_Grid_3_alpha.mfm>
