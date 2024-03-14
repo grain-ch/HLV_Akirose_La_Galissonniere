@@ -16,156 +16,12 @@
 				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 			</transform>
 			<node>
-				<identifier>	MP_XM124_YGBS_Space_M_1	</identifier>
-				<transform>
-					<row0>	0.3978 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.3978 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 0.3978 0.0000	</row2>
-					<row3>	0.1093 0.0920 0.2475 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM124_YGBS_Space_M_1_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.3978 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.3972 -0.0208 0.0000	</row1>
-					<row2>	0.0000 0.0208 0.3972 0.0000	</row2>
-					<row3>	0.0000 0.0966 0.2475 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM124_YGBS_Space_M_1_INDEX_2	</identifier>
-				<transform>
-					<row0>	0.3978 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.3971 0.0230 0.0000	</row1>
-					<row2>	0.0000 -0.0230 0.3971 0.0000	</row2>
-					<row3>	-0.1094 0.0848 0.2475 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM125_YGCS_Space_M_1	</identifier>
-				<transform>
-					<row0>	0.8109 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.8109 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 0.8109 0.0000	</row2>
-					<row3>	0.1093 0.0550 0.2313 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM125_YGCS_Space_M_1_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.8109 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.8109 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 0.8109 0.0000	</row2>
-					<row3>	0.0000 0.0550 0.2313 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM125_YGCS_Space_M_1_INDEX_2	</identifier>
-				<transform>
-					<row0>	0.8109 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.8109 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 0.8109 0.0000	</row2>
-					<row3>	-0.1094 0.0550 0.2313 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM127_YGRS_Space_M_1	</identifier>
-				<transform>
-					<row0>	0.3695 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.3695 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 0.3695 0.0000	</row2>
-					<row3>	0.1093 0.0920 0.5630 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM127_YGRS_Space_M_1_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.3695 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.3690 -0.0193 0.0000	</row1>
-					<row2>	0.0000 0.0193 0.3690 0.0000	</row2>
-					<row3>	0.0000 0.1130 0.5626 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM127_YGRS_Space_M_1_INDEX_2	</identifier>
-				<transform>
-					<row0>	0.3695 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.3689 0.0214 0.0000	</row1>
-					<row2>	0.0000 -0.0214 0.3689 0.0000	</row2>
-					<row3>	-0.1094 0.0666 0.5625 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM265_YGLR_Postap_M_1	</identifier>
-				<transform>
-					<row0>	1.3335 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.3335 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.3335 0.0000	</row2>
-					<row3>	0.2066 0.0954 -0.0591 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM266_YGLL_Postap_M_1	</identifier>
-				<transform>
-					<row0>	1.3335 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.3335 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.3335 0.0000	</row2>
-					<row3>	-0.2066 0.0954 -0.0591 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM440_YGRS_FranceArc_M_1	</identifier>
-				<transform>
-					<row0>	0.3695 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.3689 0.0214 0.0000	</row1>
-					<row2>	0.0000 -0.0214 0.3689 0.0000	</row2>
-					<row3>	-0.1094 0.0666 0.5625 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM440_YGRS_FranceArc_M_1_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.3695 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.3695 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 0.3695 0.0000	</row2>
-					<row3>	0.1093 0.0920 0.5630 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM440_YGRS_FranceArc_M_1_INDEX_2	</identifier>
-				<transform>
-					<row0>	0.3695 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 0.3690 -0.0193 0.0000	</row1>
-					<row2>	0.0000 0.0193 0.3690 0.0000	</row2>
-					<row3>	0.0000 0.1130 0.5626 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM441_YGLL_FranceArc_M_1	</identifier>
-				<transform>
-					<row0>	1.3335 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.3335 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.3335 0.0000	</row2>
-					<row3>	-0.2066 0.0954 -0.0461 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_XM442_YGLR_FranceArc_M_1	</identifier>
-				<transform>
-					<row0>	1.3335 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.3335 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.3335 0.0000	</row2>
-					<row3>	0.2066 0.0954 -0.0461 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	SP_YMS100_YGBS_M_1	</identifier>
 				<transform>
 					<row0>	0.3978 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 0.3971 0.0230 0.0000	</row1>
 					<row2>	0.0000 -0.0230 0.3971 0.0000	</row2>
-					<row3>	-0.1094 0.0822 0.2937 1.0000	</row3>
+					<row3>	-0.1093 0.0821 0.2935 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -174,7 +30,7 @@
 					<row0>	0.3978 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 0.3978 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 0.3978 0.0000	</row2>
-					<row3>	0.1093 0.0920 0.2475 1.0000	</row3>
+					<row3>	0.1092 0.0920 0.2474 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -183,7 +39,7 @@
 					<row0>	0.3978 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 0.3972 -0.0208 0.0000	</row1>
 					<row2>	0.0000 0.0208 0.3972 0.0000	</row2>
-					<row3>	0.0000 0.0952 0.2221 1.0000	</row3>
+					<row3>	0.0000 0.0952 0.2220 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -192,7 +48,7 @@
 					<row0>	0.8109 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0942 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 0.8508 0.0000	</row2>
-					<row3>	-0.1094 0.0246 0.2673 1.0000	</row3>
+					<row3>	-0.1093 0.0246 0.2671 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -201,7 +57,7 @@
 					<row0>	0.8109 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0947 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 0.8508 0.0000	</row2>
-					<row3>	0.0000 0.0247 0.2673 1.0000	</row3>
+					<row3>	0.0000 0.0247 0.2671 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -210,7 +66,7 @@
 					<row0>	0.8109 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0947 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 0.8508 0.0000	</row2>
-					<row3>	0.1093 0.0247 0.2673 1.0000	</row3>
+					<row3>	0.1092 0.0247 0.2671 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -219,7 +75,7 @@
 					<row0>	0.3695 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 0.3689 0.0214 0.0000	</row1>
 					<row2>	0.0000 -0.0214 0.3689 0.0000	</row2>
-					<row3>	-0.1094 0.0666 0.5625 1.0000	</row3>
+					<row3>	-0.1093 0.0666 0.5622 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -228,7 +84,7 @@
 					<row0>	0.3695 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 0.3690 -0.0193 0.0000	</row1>
 					<row2>	0.0000 0.0193 0.3690 0.0000	</row2>
-					<row3>	0.0000 0.1130 0.5626 1.0000	</row3>
+					<row3>	0.0000 0.1130 0.5623 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -237,7 +93,7 @@
 					<row0>	0.3695 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 0.3695 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 0.3695 0.0000	</row2>
-					<row3>	0.1093 0.0920 0.5630 1.0000	</row3>
+					<row3>	0.1092 0.0920 0.5627 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -255,7 +111,7 @@
 					<row0>	0.9850 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 0.9850 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 0.9850 0.0000	</row2>
-					<row3>	-0.2066 0.0897 0.0623 1.0000	</row3>
+					<row3>	-0.2065 0.0897 0.0622 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -264,7 +120,7 @@
 					<row0>	0.9850 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 0.9850 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 0.9850 0.0000	</row2>
-					<row3>	0.2066 0.0897 0.0623 1.0000	</row3>
+					<row3>	0.2065 0.0897 0.0622 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
@@ -277,14 +133,14 @@
 			<primitive>	Turret_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
 					<mfm>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/gun/FGM010_152_55Mle_1930_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.2723 -0.0483 -0.3096	</min>
-		<max>	0.2723 0.2303 0.5885	</max>
+		<min>	-0.2722 -0.0483 -0.3095	</min>
+		<max>	0.2722 0.2302 0.5882	</max>
 	</boundingBox>
 </FGM010_152_55_Mle_1930_dead.visual>
