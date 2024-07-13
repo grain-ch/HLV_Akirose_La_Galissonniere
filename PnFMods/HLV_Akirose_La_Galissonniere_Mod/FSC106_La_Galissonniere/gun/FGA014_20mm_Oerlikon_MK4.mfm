@@ -14,7 +14,7 @@
 		<Int>	150	</Int>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/gun/default_ao.dds	</Texture>
+		<Texture>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/gun/AGA003_20mm_Oerlikon_MK4_ao.dds	</Texture>
 	</property>
 	<property>	detailMap
 		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
