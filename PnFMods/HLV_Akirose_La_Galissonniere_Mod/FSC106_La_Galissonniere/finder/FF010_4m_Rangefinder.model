@@ -1,9 +1,6 @@
 <FF010_4m_Rangefinder.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/finder/lods/FF010_4m_Rangefinder_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<materialNames />
-	<castsShadow>	false	</castsShadow>
-	<nodefullVisual>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/finder/FF010_4m_Rangefinder	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/finder/FF010_4m_Rangefinder.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </FF010_4m_Rangefinder.model>

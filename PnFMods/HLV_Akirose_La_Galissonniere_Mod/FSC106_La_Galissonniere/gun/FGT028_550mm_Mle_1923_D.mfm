@@ -1,5 +1,5 @@
 <FGT028_550mm_Mle_1923_D.mfm>
-	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/gun/FGT028_550mm_Mle_1923_D_ao.dds	</Texture>

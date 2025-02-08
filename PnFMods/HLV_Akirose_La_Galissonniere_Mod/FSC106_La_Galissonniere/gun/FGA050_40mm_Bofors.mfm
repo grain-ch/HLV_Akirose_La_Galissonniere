@@ -1,4 +1,5 @@
 <FGA050_40mm_Bofors.mfm>
+	<!--<fx>	shaders/materials/pbs/ship_material.fx	</fx>-->
 	<fx>	shaders/materials/pbs/ship_emissive_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	emissivePower

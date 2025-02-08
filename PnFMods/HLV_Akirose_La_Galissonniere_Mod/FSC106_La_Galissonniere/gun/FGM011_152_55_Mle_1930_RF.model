@@ -1,7 +1,6 @@
 <FGM011_152_55_Mle_1930_RF.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/gun/lods/FGM011_152_55_Mle_1930_RF_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/gun/FGM011_152_55_Mle_1930_RF	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/gun/FGM011_152_55_Mle_1930_RF.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </FGM011_152_55_Mle_1930_RF.model>

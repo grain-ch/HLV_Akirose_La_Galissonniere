@@ -1,6 +1,6 @@
 <FSC006_Galissonniere_1944_wire.mfm>
-	<collisionFlags>	0	</collisionFlags>
 	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap
 		<Texture>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/ship/FSC006_Galissonniere_1944_a.dds	</Texture>
 	</property>

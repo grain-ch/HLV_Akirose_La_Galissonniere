@@ -1,4 +1,5 @@
 <FGA014_20mm_Oerlikon_MK4.mfm>
+	<!--<fx>	shaders/materials/pbs/ship_material.fx	</fx>-->
 	<fx>	shaders/materials/pbs/ship_emissive_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	emissivePower
@@ -13,6 +14,7 @@
 	<property>	alphaReference
 		<Int>	150	</Int>
 	</property>
+	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/gun/AGA003_20mm_Oerlikon_MK4_ao.dds	</Texture>
 	</property>

@@ -1,5 +1,6 @@
 <FF011_8m_Rangefinder.mfm>
-	<fx>	shaders//std_effects/PBS_ship.fx	</fx><!-- color adjust-->
+	<!--color adjust<fx>	shaders/materials/pbs/ship_material.fx	</fx>-->
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/finder/default_ao.dds	</Texture>
