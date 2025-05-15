@@ -1,0 +1,10 @@
+<FAB701_Breguet_Br521_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/aircraft/FAB701_Breguet_Br521_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Akirose_La_Galissonniere_Mod/FSC106_La_Galissonniere/aircraft/FAB701_Breguet_Br521_mg.dds	</Texture>
+	</property>
+</FAB701_Breguet_Br521_wire.mfm>
